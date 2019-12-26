@@ -74,7 +74,7 @@ export default {
   proxy: {
     '/api/': {
       changeOrigin: true,
-      target: 'http://47.97.248.25:8005/',
+      target: 'http://30.11.142.60:7001/',
     },
     // '/wx/api/': {
     //   changeOrigin: true,

@@ -1,9 +1,5 @@
 import request from '@/utils/request';
 import { stringify } from 'qs';
-import { baseRequest } from '@/utils/jsapiRequest';
-console.log('baseRequest');
-console.log(baseRequest);
-
 
 
 // 最近 文档列表
@@ -39,5 +35,15 @@ export async function getFilePath(params) {
     return request(`/api/file/path?${stringify(params)}`);
 }
 
+// 预览文件
+export async function gotoPreview(params) {
+    return request(`/api/file/preview/${params.fileId}/${params.version}`);
+}
 
-
+// 搜索文件
+export async function searchFile(params) {
+    return request(`/api/file/search`, {
+        method: 'POST',
+        body: params,
+    })
+}

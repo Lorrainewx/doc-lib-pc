@@ -96,7 +96,6 @@ class Home extends Component {
     const { doc_org_name, fileId, shouldLoading, shouldPathLoading } = this.state;
     const { file, loading, location } = this.props;
     const { query } = location;
-    console.log(query);
     let { 
       filesResult,
       pathResult
