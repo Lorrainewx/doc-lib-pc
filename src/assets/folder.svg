@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="38px" viewBox="0 0 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.8365651%" y1="0%" x2="81.1634349%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4CA2F8" offset="0%"></stop>
+            <stop stop-color="#118AF5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7,0 L25,0 L25,0 L35,10 L35,36 C35,37.1045695 34.1045695,38 33,38 L7,38 C5.8954305,38 5,37.1045695 5,36 L5,2 C5,0.8954305 5.8954305,2.02906125e-16 7,0 Z" id="path-2"></path>
+    </defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文档库-单位/组织文档库-文件夹" transform="translate(-16.000000, -470.000000)">
+            <g id="列表-copy" transform="translate(0.000000, 454.000000)">
+                <g id="编组" transform="translate(11.000000, 16.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

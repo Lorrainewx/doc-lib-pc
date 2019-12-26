@@ -1,0 +1,62 @@
+@import '../../utils/utils.less';
+
+.headerWrapper {
+    .title, .titleB {
+      font-size: 15px;
+      color: #314659;
+      display: inline-block;
+      line-height: 24px;
+      letter-spacing: 0;
+      margin-right: 100px;
+      i {
+        margin-right: 5px;
+      }
+      a {
+        color: #191F25;
+      }
+    }
+    :global{
+      .ant-input {
+        width: 253px;
+        height: 30px;
+        background: #FFFFFF;
+        border-color: #E4E4E4;
+        border-radius: 16px;
+        padding: 0 30px;
+        padding-right: 15px;
+        &:focus {
+          border: none;
+        }
+      }  
+      .ant-input-affix-wrapper {
+        .ant-input-suffix {
+          right: auto;
+          left: 12px;
+        }
+      }
+    }
+
+    .search {
+        background: #FFFFFF;
+        border: 1px solid #E4E4E4;
+        width: 253px;
+        height: 30px;
+        border-radius: 16px;
+        color: #cccccc;
+        display: inline-block; 
+        position: absolute;
+        margin-top: 17.5px;
+        cursor: pointer;
+        span {
+            line-height: 30px;
+            position: absolute;
+            top: 0;
+            left: 32px;
+        }
+        svg {
+            position: absolute;
+            top: 8px;
+            left: 12px;
+        }
+    }
+  }

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="200px" viewBox="0 0 164 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Pdf</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F25643" offset="0%"></stop>
+            <stop stop-color="#EC4C38" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="21.1452096%" x2="50%" y2="80.3751871%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAFAFA" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-3" font-family="Helvetica" font-size="56" font-weight="normal" letter-spacing="-2.24000006">
+            <tspan x="26.1416754" y="139.538462">PD</tspan>
+            <tspan x="99.4546441" y="139.538462" letter-spacing="-2.2648892">F</tspan>
+        </text>
+        <filter x="-0.5%" y="-0.7%" width="101.9%" height="103.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文件" transform="translate(-1493.000000, -289.000000)">
+            <g id="PDF" transform="translate(1475.000000, 289.000000)">
+                <g id="Pdf" transform="translate(18.461538, 0.000000)">
+                    <path d="M163.076923,190.153846 C163.076923,195.591727 158.66865,200 153.230769,200 L9.84615385,200 C4.40827323,200 -4.66312221e-15,195.591727 0,190.153846 L0,9.84615385 C1.11040853e-15,4.40827323 4.40827323,9.88070666e-15 9.84615385,0 L115.076923,0 L163.076923,48 L163.076923,190.153846 Z" id="shape" fill="url(#linearGradient-1)"></path>
+                    <g id="PDF">
+                        <use fill="#D8D8D8" fill-opacity="1" filter="url(#filter-4)" xlink:href="#text-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#text-3"></use>
+                        <use fill="#D8D8D8" fill-opacity="1" xlink:href="#text-3"></use>
+                    </g>
+                    <path d="M115.076923,0 L163.076923,48 L124.923077,48 C119.485196,48 115.076923,43.5917268 115.076923,38.1538462 L115.076923,0 L115.076923,0 Z" id="Angle" fill="#F25643"></path>
+                    <path d="M115.076923,0 L163.076923,48 L124.923077,48 C119.485196,48 115.076923,43.5917268 115.076923,38.1538462 L115.076923,0 L115.076923,0 Z" id="Angle" fill="#FFFFFF" opacity="0.319999993"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

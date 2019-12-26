@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="38px" viewBox="0 0 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.8365651%" y1="0%" x2="81.1634349%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4CA2F8" offset="0%"></stop>
+            <stop stop-color="#118AF5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7,0 L25,0 L25,0 L35,10 L35,36 C35,37.1045695 34.1045695,38 33,38 L7,38 C5.8954305,38 5,37.1045695 5,36 L5,2 C5,0.8954305 5.8954305,2.02906125e-16 7,0 Z" id="path-2"></path>
+    </defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文档库-单位/组织文档库-文件夹" transform="translate(-16.000000, -470.000000)">
+            <g id="列表-copy" transform="translate(0.000000, 454.000000)">
+                <g id="编组" transform="translate(11.000000, 16.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M12.1382864,27.8402498 L20,19.8996213 L20,19.8996213 L27.8617136,27.8402498 C28.3474251,28.3308368 29.1388715,28.3347892 29.6294585,27.8490777 C29.8665842,27.6143085 30,27.2944755 30,26.9607913 L30,15.125 C30,14.5036797 29.4963203,14 28.875,14 C28.2536797,14 27.75,14.5036797 27.75,15.125 L27.75,24.513494 L27.75,24.513494 L20.8882864,17.5829034 C20.4025749,17.0923164 19.6111285,17.088364 19.1205415,17.5740755 C19.1175842,17.5770035 19.1146415,17.5799461 19.1117136,17.5829034 L12.25,24.513494 L12.25,24.513494 L12.25,15.125 C12.25,14.5036797 11.7463203,14 11.125,14 C10.5036797,14 10,14.5036797 10,15.125 L10,26.9607913 C10,27.6511472 10.5596441,28.2107913 11.25,28.2107913 C11.5836842,28.2107913 11.9035172,28.0773755 12.1382864,27.8402498 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+                    <path d="M25,0 L35,10 L27,10 C25.8954305,10 25,9.1045695 25,8 L25,0 L25,0 Z" id="矩形" fill="#79BCFC" mask="url(#mask-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="38px" viewBox="0 0 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.8365651%" y1="0%" x2="81.1634349%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F67E5C" offset="0%"></stop>
+            <stop stop-color="#F55D35" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2,0 L20,0 L20,0 L30,10 L30,36 C30,37.1045695 29.1045695,38 28,38 L2,38 C0.8954305,38 1.3527075e-16,37.1045695 0,36 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="path-2"></path>
+    </defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文档库-单位/组织文档库-文件夹" transform="translate(-16.000000, -398.000000)">
+            <g id="编组" transform="translate(16.000000, 398.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M20.3846154,21.9827586 C21.6449575,21.9827586 22.6693181,20.9636918 22.6919261,19.6979309 L22.6923077,19.6551724 C22.6923077,18.3839653 21.6819509,17.3507739 20.4270084,17.3279711 L6.1637931,17.3275862 C5.52104792,17.3275862 5,16.8065383 5,16.1637931 C5,15.5210479 5.52104792,15 6.1637931,15 L20.3846154,15 C22.9336219,15 25,17.0841917 25,19.6551724 C25,22.2261531 22.9336219,24.3103448 20.3846154,24.3103448 L7.307,24.31 L7.30769231,28.8461538 C7.30769231,29.4834055 6.79109779,30 6.15384615,30 C5.51659452,30 5,29.4834055 5,28.8461538 L5,23.1366048 C5,22.4993531 5.51659452,21.9827586 6.15384615,21.9827586 L20.3846154,21.9827586 Z" id="形状结合" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                <path d="M20,0 L30,10 L22,10 C20.8954305,10 20,9.1045695 20,8 L20,0 L20,0 Z" id="矩形" fill="#FAA48C" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

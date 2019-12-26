@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="200px" viewBox="0 0 164 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Word</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3296FA" offset="0%"></stop>
+            <stop stop-color="#288DF2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M162.538462,190.153846 C162.538462,195.591727 158.130188,200 152.692308,200 L9.38461538,200 C3.94673477,200 -0.461538462,195.591727 -0.461538462,190.153846 L-0.461538462,9.84615385 C-0.461538462,4.40827323 3.94673477,9.88070666e-15 9.38461538,0 L114.538462,0 L162.538462,48 L162.538462,190.153846 Z" id="path-2"></path>
+        <filter x="-0.3%" y="-0.2%" width="100.6%" height="100.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.155785621 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="21.1452096%" x2="50%" y2="80.3751871%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAFAFA" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="80.3430469 107.812239 68.7356545 148.438113 59.0760779 148.438113 43.6923077 91.0769231 54.3854193 91.0769231 64.2040012 133.769867 64.8002714 133.769867 76.0896531 91.0769231 85.1927109 91.0769231 96.641098 133.769867 97.1976168 133.769867 107.016199 91.0769231 117.629808 91.0769231 102.246038 148.438113 92.6262123 148.438113 80.9393171 107.812239"></polygon>
+        <filter x="-0.7%" y="-0.9%" width="102.7%" height="103.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="文件" transform="translate(-185.000000, -289.000000)">
+            <g id="Word" transform="translate(167.000000, 289.000000)">
+                <g transform="translate(18.461538, 0.000000)">
+                    <g id="shape">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="W" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                    <path d="M115.076923,0 L163.076923,48 L124.923077,48 C119.485196,48 115.076923,43.5917268 115.076923,38.1538462 L115.076923,0 L115.076923,0 Z" id="Angle" fill="#3296FA"></path>
+                    <path d="M115.076923,0 L163.076923,48 L124.923077,48 C119.485196,48 115.076923,43.5917268 115.076923,38.1538462 L115.076923,0 L115.076923,0 Z" id="Angle" fill="#FFFFFF" opacity="0.319999993"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
