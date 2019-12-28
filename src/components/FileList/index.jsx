@@ -131,7 +131,7 @@ class FileList extends Component {
       title: '',
       dataIndex: 'openPath',
       render: (_, record) => {
-        return <div onClick={e => this.openFileBelongFolder(record.fileId)}>前往文件所在位置</div>
+        return <div onClick={e => this.openFileBelongFolder(e, record.fileId)}>前往文件所在位置</div>
       }
     },    
     // 搜索/首页频道无相关操作    

@@ -1,4 +1,5 @@
 import { recentList, focusedList, toggleFocus, libsList, fileList, getFilePath } from '@/services/file';
+import { getLibsList } from '@/services/jsapiFile';
 
 export default {
     namespace: 'file',
@@ -9,6 +10,7 @@ export default {
         doclibResult: {},
         pathResult: {},
         result: {},
+        libsResult: {}, // jsapi的文档列表
     },
     effects: {
         // 获取最近使用列表
@@ -78,6 +80,17 @@ export default {
                 type: 'save',
                 payload: {
                     pathResult: response
+                }
+            })
+            callback && callback(response);
+        },
+        // JSAPI libs请求
+        *getLibs({ callback, payload }, { call, put }) {
+            let response = yield call(getLibsList, payload);
+            yield put({
+                type: 'save',
+                payload: {
+                    libsResult: response
                 }
             })
             callback && callback(response);
